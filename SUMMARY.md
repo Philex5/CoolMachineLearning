@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [第一章：线性分类模型](Chapter1/1.MLAlgorithms.md)
 * [1.1 感知机](Chapter1/1.1percetron.md)
+* [1.2 逻辑回归](Chapter1/1.2LogisticRegression.md)
+* [1.3 LDA](Chapter1/1.3LDA.md)
 * [第二章：决策树](Chpater2/2.DicisionTree.md)
 * [第三章：神经网络](Chpater3/3.NeuralNetwork.md)
 * [第四章：支持向量机](Chpater4/4.SVM.md)
