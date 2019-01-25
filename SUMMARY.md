@@ -13,7 +13,6 @@
 * [4.3核函数](Chapter4/4.3KernelFunction.md)
 * [4.4软间隔](Chapter4/4.4SoftDist.md)
 * [4.5优化方法](Chapter4/4.5PromoteMethod.md)
-* [4.6支持向量机的其他变体](Chapter4/4.6OtherSVM.md)
 * [第五章：贝叶斯分类器](Chapter5/5.Bayes.md)
 * [第六章：图模型](Chapter6/6.GraphModel.md)
 * [第七章：集成学习](Chapter7/7.EmsembleLearning.md)
